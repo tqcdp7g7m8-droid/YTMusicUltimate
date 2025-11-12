@@ -1,0 +1,18 @@
+{
+  "name": "YTMusic Ultimate Source",
+  "identifier": "com.termx.ytmusicsource",
+  "apps": [
+    {
+      "name": "YTMusic Ultimate",
+      "bundleIdentifier": "com.termx.ytmusicultimate",
+      "developerName": "Termx",
+      "version": "1.0",
+      "versionDate": "2025-11-12",
+      "versionDescription": "Initial release.",
+      "downloadURL": "https://github.com/tqcdp7g7m8-droid/YTMusicUltimate/releases/download/v1.0/YTMusicUltimate.ipa",
+      "localizedDescription": "YTM",
+      "tintColor": "#FF0000",
+      "screenshotURLs": []
+    }
+  ]
+}

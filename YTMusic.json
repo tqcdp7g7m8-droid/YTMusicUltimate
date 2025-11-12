@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "YTMusic Ultimate",
-      "bundleIdentifier": "com.termx.ytmusicultimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Termx",
       "version": "1.0",
       "versionDate": "2025-11-12",
